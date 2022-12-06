@@ -1,0 +1,6 @@
+Dev -1 Create Home Page
+Dev -3 Create cart functionality
+Dev -3 Create payments functionality
+QA -1 test home page & cart functionality
+QA -2 test payment functionality
+QA -3 define selenium automation script
